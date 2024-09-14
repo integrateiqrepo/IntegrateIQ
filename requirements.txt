@@ -1,0 +1,16 @@
+google-generativeai
+python-dotenv
+langchain
+PyPDF2
+faiss-cpu
+langchain_google_genai
+beautifulSoup4
+requests
+langchain-community
+python-multipart
+gtts
+speechrecognition
+pytesseract
+uvicorn
+fastapi
+fastapi-cors
